@@ -1,2 +1,2 @@
-# Magic 8 Ball 🎱 sample app
+# Magic 8 Ball 🎱 Sample App
 
